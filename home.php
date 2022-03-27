@@ -28,13 +28,15 @@
   <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
   <a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
   <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+  <a href="commercialrainwaterharvesting.html" class="w3-bar-item w3-button">Commercial Rainwater Harvesting</a>
     <div class="w3-dropdown-hover w3-hide-small">
-    <button class="w3-button" title="Notifications">Rain Water Harvesting System <i class="fa fa-caret-down"></i></button>
+    <button class="w3-button" title="Notifications"> Residential Rainwater Harvesting <i class="fa fa-caret-down"></i></button>
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-      <a href="commercialrainwaterharvesting.html" class="w3-bar-item w3-button">Commercial Rainwater Harvesting</a>
-      <a href="residentialrainwaterharvesting.html" class="w3-bar-item w3-button">Residential Rainwater Harvesting</a>
+            <a href="residentialrainwaterharvesting.html" class="w3-bar-item w3-button"> Urban Rainwater Harvesting</a>
+            <a href="residentialrainwaterharvesting.html" class="w3-bar-item w3-button"> Rural Rainwater Harvesting</a>
     </div>
   </div>
+  <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Government Schemes </a>
   <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-teal" title="Search"><i class="fa fa-search"></i></a>
  </div>
 
