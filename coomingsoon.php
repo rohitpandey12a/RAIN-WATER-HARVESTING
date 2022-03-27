@@ -28,67 +28,9 @@
 <div class="w3-display-container w3-animate-opacity">
  <img src="images\banner1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">RAIN WATER HARVESTING</p>
+   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Comming Soon </p>
  </div>
 </div>
-
-
-<!-- Modal -->
-
-<!-- Work Row -->
-<div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
-  <div class="w3-quarter">
-    <h2>Rain Water Harvesting</h2>
-    <p align="justify">Rainwater harvesting (RWH) is the collection and storage of rain, rather than allowing it to run off. Rainwater is collected from a roof-like surface and redirected to a tank, cistern, deep pit (well, shaft, or borehole), aquifer, or a reservoir with percolation, so that it seeps down and restores the ground water.</p>
-  </div>
-  <div align="center" class="w3-quarter">
-    <img src="images\home1.jpg" alt="boat">
-      <h4>Rain Water Harvesting</h4>
-  </div>
-  <div align="center" class="w3-quarter">
-    <img src="images\home2.jpg" alt="boat">
-      <h4>Rain Water Harvesting</h4>
-  </div>
-  <div align="center" class="w3-quarter">
-    <img src="images\home2.jpg" alt="boat">
-      <h4>Rain Water Harvesting</h4>
-  </div>
-</div>
-
-<!-- Team Container -->
-<div class="w3-container w3-padding-64 w3-center" id="team">
-<h2>OUR TEAM</h2>
-<p>Meet the team - our office rats:</p>
-
-<div class="w3-row"><br>
-
-<div class="w3-quarter">
-  <img src="images\login-icon-17.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
-  <h3>Rohit Pandey</h3>
-  <p>Web Designer</p>
-</div>
-
-<div class="w3-quarter">
-  <img src="images\login-icon-17.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
-  <h3>Ankur Pandey</h3>
-  <p>Support</p>
-</div>
-
-<div class="w3-quarter">
-  <img src="images\login-icon-17.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
-  <h3>Yash Sakpal</h3>
-  <p>Manager</p>
-</div>
-
-<div class="w3-quarter">
-  <img src="images\login-icon-17.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
-  <h3>Yash Dubey</h3>
-  <p>Researcher</p>
-</div>
-
-</div>
-</div>
-
 
 <!-- Contact Container -->
 <div class="w3-container w3-padding-64 w3-theme-l5" id="contact">

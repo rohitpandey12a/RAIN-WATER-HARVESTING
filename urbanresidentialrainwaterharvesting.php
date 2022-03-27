@@ -27,9 +27,9 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="images\integrating-rainwater-harvesting-stormwater-management-1-638 (2).jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="images\urban_rainwater_harvesting1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Residential RAINWATER HARVESTING</p>
+    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">URBAN  RAINWATER HARVESTING</p>
   </div>
 </div>
 
@@ -77,7 +77,7 @@
   <!-- first flush -->
   <div class="w3-quarter" >
   <div class="w3-card w3-white">
-    <img src="images\surface-runoof-harvesting.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
+    <img src="images\flush.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
     <div class="w3-container" >
     <h3>First Flush Rainwater Harvesting System</h3>
     <p>Diverters, as the name implies, flush off the first water of a storm before it enters the storage tank. This is the water that could be the most contaminated by particulates, bird droppings, and other materials laying on the roof.</p>

@@ -27,9 +27,9 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="images\integrating-rainwater-harvesting-stormwater-management-1-638 (2).jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="images\rural_rainwater_harvesting.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Residential RAINWATER HARVESTING</p>
+    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Rural RAINWATER HARVESTING</p>
   </div>
 </div>
 
@@ -49,7 +49,7 @@
   <!-- Johads -->
   <div class="w3-quarter" >
   <div class="w3-card w3-white">
-    <div><img src="images\3.-600x415.png" alt="Snow" style="width:100%;height:200px;max-height:250px">
+    <div><img src="images\johad.jpg" alt="Snow" style="width:100%;height:200px;max-height:250px">
     </div>
     <div class="w3-container">
     <h3>Johads Rainwater Harvesting System</h3>
@@ -74,7 +74,7 @@
   <!--  Khadin -->
   <div class="w3-quarter" >
   <div class="w3-card w3-white">
-    <img src="images\surface-runoof-harvesting.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
+    <img src="images\khadin.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
     <div class="w3-container" >
     <h3> Khadin Rainwater Harvesting System</h3>
     <p>A khadin, also called a dhora, is an ingenious construction designed to harvest surface runoff water for agriculture. Its main feature is a very long (100-300 m) earthen embankment built across the lower hill slopes lying below gravelly uplands. Sluices and spillways allow excess water to drain off.</p>
@@ -97,7 +97,7 @@
   <!-- borewell -->
   <div class="w3-quarter" >
   <div class="w3-card w3-white">
-    <img src="images\garden-rainwater-harvesting-system.jpg" alt="Mountains" style="width:100%;height:200px;max-height:250px">
+    <img src="images\borewell.jpg" alt="Mountains" style="width:100%;height:200px;max-height:250px">
     <div class="w3-container" >
     <h3>Borewell Rainwater Harvesting System</h3>
     <p>Borewell recharging technically focuses on the use of harvested surface water obtained via rainfall or nearby water bodies where runoff water begins to pass through a natural filter made up of large and small stones. There are two borewell recharge methods being employed by farmers across India : direct and indirect.</p>

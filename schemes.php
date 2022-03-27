@@ -61,7 +61,7 @@ set_style_from_cookie();
 <div class="w3-display-container w3-animate-opacity">
  <img src="images\banner1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">RAIN WATER HARVESTING</p>
+   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Government Schemes</p>
  </div>
 </div>
         <!--Content-->
@@ -182,32 +182,21 @@ set_style_from_cookie();
 			<div id="sidebar" class="col-right">
 			  <section>
 		      <div class="heading">
-		        <h3>Categories</h3>
+		        <h3>Recent News</h3>
 	      </div>
 					<div class="content">
 			  <ul>
-			  <li><a href="why_cons.html">Why Soil and Water Conservation</a></li>
-              <li><a href="basic_info.html">Basic Information</a></li>
-              <li><a href="major_prog.html">Major Programmes</a></li>
-              <li><a href="guidelines.html">Guidelines for Central Schemes</a></li>
-              <li><a href="shifting_cul.html">Shifting Cultivation</a></li>
-              <li><a href="training_institute.html">Training Institute</a></li>
-              <li><a href="achievements.html">Achievements</a></li>
-              <li><a href="annual_report.html">Annual Report</a></li>
-              <li><a href="docs/citizens_charter.pdf" target="_blank" title="Pdf that opens in a new window">Citizens' Charter</a></li>
-              <li><a href="http://megrti.gov.in/handbook.php?dept=46&pa=01&B1=Submit" target="_blank" title="External website that opens in a new window">Right to Information</a></li>
-              <li><a href="mccdb/index.html">MCCDB</a></li>
-              <li><a href="nbm.html">National Bamboo Mission</a></li>
+          <li><a href="coomingsoon.php">Coming Soon </a></li>
 			  </ul>
 					</div>
 			  </section>
 				<section>
 					<div class="heading">
-					  <h3>Others</h3></div>
+					  <h3>Important Links</h3></div>
 					<div class="content">
                     <ul>
-                    <li><a href="newsletter.html">Newsletter</a></li>
-                    <li><a href="picture_gallery.html">Picture Gallery</a></li>
+                    <li><a href="https://youtu.be/zEl2K9Jkz-I">AIBP</a></li>
+                    <li><a href="https://youtu.be/vibf7cIVgoE">Soil and Water Conservation for NABARD</a></li>
                     </ul>
 				</div>
 				</section>
