@@ -1,4 +1,4 @@
-<<?php
+<?php
 	if (($_SERVER["REQUEST_METHOD"] == "POST")) {
 		$conn = mysqli_connect("localhost", "root", "", "Rain_Water_Harvesting");
 
@@ -12,9 +12,7 @@
 				$content = $_POST["Message"];
 				$sql="INSERT INTO tblcontact (user_name, user_email,content) VALUES('$name','$email','$content')";
 				if(mysqli_query($conn, $sql)){
-            echo "data stored in a database successfully."
-                . " Please browse your localhost php my admin"
-                . " to view the updated data</h3>";
+            echo "successfull";
 
         } else{
             echo "ERROR: Hush! Sorry $sql. "
@@ -23,5 +21,11 @@
 
         // Close connection
         mysqli_close($conn);
+
 	}
  ?>
+<script>
+setTimeout(function () {
+    window.location.href = 'home.php';
+},3000); // 5 seconds
+</script>
