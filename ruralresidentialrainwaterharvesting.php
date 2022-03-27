@@ -22,37 +22,14 @@
 
 <!-- Navbar -->
 <div class="w3-top">
- <div class="w3-bar w3-theme-d2 w3-left-align">
-  <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
-  <a href="#" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Home</a>
-  <a href="#work" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
-  <a href="#team" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
-  <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
-    <div class="w3-dropdown-hover w3-hide-small">
-    <button class="w3-button" title="Notifications">Rain Water Harvesting System <i class="fa fa-caret-down"></i></button>
-    <div class="w3-dropdown-content w3-card-4 w3-bar-block">
-      <a href="commercialrainwaterharvesting.html" class="w3-bar-item w3-button">Commercial Rainwater Harvesting</a>
-      <a href="residentialrainwaterharvesting.html" class="w3-bar-item w3-button">Residential Rainwater Harvesting</a>
-    </div>
-  </div>
-  <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-teal" title="Search"><i class="fa fa-search"></i></a>
- </div>
-
-  <!-- Navbar on small screens -->
-  <div id="navDemo" class="w3-bar-block w3-theme-d2 w3-hide w3-hide-large w3-hide-medium">
-    <a href="#team" class="w3-bar-item w3-button">Team</a>
-    <a href="#work" class="w3-bar-item w3-button">Work</a>
-    <a href="#pricing" class="w3-bar-item w3-button">Price</a>
-    <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-    <a href="#" class="w3-bar-item w3-button">Search</a>
-  </div>
+  <?php include('header.php');?>
 </div>
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="images\banner1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="images\integrating-rainwater-harvesting-stormwater-management-1-638 (2).jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">RAIN WATER HARVESTING</p>
+    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Residential RAINWATER HARVESTING</p>
   </div>
 </div>
 
@@ -62,13 +39,81 @@
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
   <div class="w3-quarter">
     <h2>Rain Water Harvesting</h2>
-    <p>Rainwater harvesting (RWH) is the collection and storage of rain, rather than allowing it to run off. Rainwater is collected from a roof-like surface and redirected to a tank, cistern, deep pit (well, shaft, or borehole), aquifer, or a reservoir with percolation, so that it seeps down and restores the ground water.</p>
+    <p>Rainwater harvesting (RWH) is the collection and storage of rain,
+      rather than allowing it to run off. Rainwater is collected from a roof-like
+      surface and redirected to a tank, cistern, deep pit (well, shaft, or
+      borehole), aquifer, or a reservoir with percolation, so that it seeps
+      down and restores the ground water.</p>
   </div>
-  <div class="w3-quarter">
 
+  <!-- Johads -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <div><img src="images\3.-600x415.png" alt="Snow" style="width:100%;height:200px;max-height:250px">
+    </div>
+    <div class="w3-container">
+    <h3>Johads Rainwater Harvesting System</h3>
+    <p>
+      Johad, also known as a pokhar or a percolation pond, is a small  earthen check dam  that captures and conserve rainwater. The advantage is depending on the soil, rock formation and  their porosity and permeability, it promotes downward percolation of stored water  and recharges ground water.
+    </p>
+    <p><b>For Complete Guidence -</b> </p>
+    <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+    <button
+      onClick="window.location.href='https://navrangindia.blogspot.com/2020/04/johads-age-old-simple-traditional-water.html?m=1';">
+      Click Here
+    </button>
+    <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+    <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+    </iframe> -->
+    <iframe width="260" height="345" src="https://www.youtube.com/embed/MRwavSnUhLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+    </div>
   </div>
-  <div class="w3-quarter">
 
+  <!--  Khadin -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\surface-runoof-harvesting.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3> Khadin Rainwater Harvesting System</h3>
+    <p>A khadin, also called a dhora, is an ingenious construction designed to harvest surface runoff water for agriculture. Its main feature is a very long (100-300 m) earthen embankment built across the lower hill slopes lying below gravelly uplands. Sluices and spillways allow excess water to drain off.</p>
+<p> </p>
+<p><b>For Complete Guidence -</b> </p>
+  <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+  <button
+    onClick="window.location.href='https://krishi.icar.gov.in/jspui/bitstream/123456789/21625/1/Khadin%20system%20of%20runoff%20farming-Indian%20Farming%202018.pdf';">
+    Click Here
+  </button>
+  <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+  <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+  </iframe> -->
+  <iframe width="260" height="345" src="https://www.youtube.com/embed/OwvVsIvM4J4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+    </div>
+  </div>
+
+  <!-- borewell -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\garden-rainwater-harvesting-system.jpg" alt="Mountains" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3>Borewell Rainwater Harvesting System</h3>
+    <p>Borewell recharging technically focuses on the use of harvested surface water obtained via rainfall or nearby water bodies where runoff water begins to pass through a natural filter made up of large and small stones. There are two borewell recharge methods being employed by farmers across India : direct and indirect.</p>
+
+    <p><b>For Complete Guidence -</b> </p>
+      <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+      <button
+        onClick="window.location.href='https://www.jocpr.com/articles/borewell-recharging-through-rainwater-harvesting-by-vwire-technology.pdf';">
+        Click Here
+      </button>
+      <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+      <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+      </iframe> -->
+      <iframe width="260" height="345" src="https://www.youtube.com/embed/ypjs7N5c3Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
   </div>
 </div>
 
@@ -106,7 +151,6 @@
 </div>
 </div>
 
-
 <!-- Contact Container -->
 <div class="w3-container w3-padding-64 w3-theme-l5" id="contact">
   <div class="w3-row">
@@ -119,7 +163,7 @@
       <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  test@test.com</p>
     </div>
     <div class="w3-col m7">
-      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="action.php" method="post">
+      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="/action_page.php" target="_blank">
       <div class="w3-section">
         <label>Name</label>
         <input class="w3-input" type="text" name="Name" required>
@@ -134,7 +178,7 @@
       </div>
       <input class="w3-check" type="checkbox" checked name="Like">
       <label>I Like it!</label>
-      <button type="submit" name="send" class="w3-button w3-right w3-theme">Send</button>
+      <button type="submit" class="w3-button w3-right w3-theme">Send</button>
       </form>
     </div>
   </div>
@@ -181,6 +225,5 @@ function openNav() {
   }
 }
 </script>
-
 </body>
 </html>

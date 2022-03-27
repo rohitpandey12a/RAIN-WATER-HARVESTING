@@ -25,13 +25,13 @@
   <?php include('header.php');?>
 </div>
 
+<!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
- <img src="images\banner1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
- <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">RAIN WATER HARVESTING</p>
- </div>
+  <img src="images\integrating-rainwater-harvesting-stormwater-management-1-638 (2).jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
+    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">Residential RAINWATER HARVESTING</p>
+  </div>
 </div>
-
 
 <!-- Modal -->
 
@@ -39,13 +39,84 @@
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
   <div class="w3-quarter">
     <h2>Rain Water Harvesting</h2>
-    <p>Rainwater harvesting (RWH) is the collection and storage of rain, rather than allowing it to run off. Rainwater is collected from a roof-like surface and redirected to a tank, cistern, deep pit (well, shaft, or borehole), aquifer, or a reservoir with percolation, so that it seeps down and restores the ground water.</p>
+    <p>Rainwater harvesting (RWH) is the collection and storage of rain,
+      rather than allowing it to run off. Rainwater is collected from a roof-like
+      surface and redirected to a tank, cistern, deep pit (well, shaft, or
+      borehole), aquifer, or a reservoir with percolation, so that it seeps
+      down and restores the ground water.</p>
   </div>
-  <div class="w3-quarter">
+  <!-- rooftop -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <div><img src="images\3.-600x415.png" alt="Snow" style="width:100%;height:200px;max-height:250px">
+    </div>
+    <div class="w3-container">
+    <h3>Rooftop rainwater harvesting</h3>
+    <p>
+      The Main Objective of rooftop rain water harvesting is to make water available for
+      future use. Capturing and storing rain water for use is particularly important in
+      dryland, hilly, urban and coastal areas
+    </p>
+    <br>
+    <br>
+    <p><b>For Complete Guidence -</b> </p>
+    <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+    <button
+      onClick="window.location.href='http://cgwb.gov.in/documents/AR/Roof%20Top%20Rain%20Water%20Harvesting.pdf';">
+      Click Here
+    </button>
+    <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+    <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+    </iframe> -->
+    <iframe width="260" height="345" src="https://www.youtube.com/embed/ES8-xHQ10ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+    </div>
+    </div>
   </div>
-  <div class="w3-quarter">
 
+  <!-- first flush -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\surface-runoof-harvesting.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3>First Flush Rainwater Harvesting System</h3>
+    <p>Diverters, as the name implies, flush off the first water of a storm before it enters the storage tank. This is the water that could be the most contaminated by particulates, bird droppings, and other materials laying on the roof.</p>
+<p> </p>
+<p><b>For Complete Guidence -</b> </p>
+  <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+  <button
+    onClick="window.location.href='https://www.harvesth2o.com/first_flush.shtml#.YkBX6OdBxEZ';">
+    Click Here
+  </button>
+  <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+  <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+  </iframe> -->
+  <iframe width="260" height="345" src="https://www.youtube.com/embed/1HYdfDoQXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+    </div>
+  </div>
+
+  <!-- garden -->
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\garden-rainwater-harvesting-system.jpg" alt="Mountains" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3>Garden Rainwater Harvesting System</h3>
+    <p>Rainwater harvesting garden systems designed to set above ground and just for the garden. The systems enable householders, small holders, greenhouse owners to collect, filter, store and pump rainwater to the point of use in the garden</p>
+
+    <p><b>For Complete Guidence -</b> </p>
+      <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+      <button
+        onClick="window.location.href='https://catalog.extension.oregonstate.edu/sites/catalog/files/project/pdf/em9101.pdf';">
+        Click Here
+      </button>
+      <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+      <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+      </iframe> -->
+      <iframe width="260" height="345" src="https://www.youtube.com/embed/WtEx6Hv2UB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
   </div>
 </div>
 
@@ -83,7 +154,6 @@
 </div>
 </div>
 
-
 <!-- Contact Container -->
 <div class="w3-container w3-padding-64 w3-theme-l5" id="contact">
   <div class="w3-row">
@@ -96,7 +166,7 @@
       <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  test@test.com</p>
     </div>
     <div class="w3-col m7">
-      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="action.php" method="post">
+      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="/action_page.php" target="_blank">
       <div class="w3-section">
         <label>Name</label>
         <input class="w3-input" type="text" name="Name" required>
@@ -111,7 +181,7 @@
       </div>
       <input class="w3-check" type="checkbox" checked name="Like">
       <label>I Like it!</label>
-      <button type="submit" name="send" class="w3-button w3-right w3-theme">Send</button>
+      <button type="submit" class="w3-button w3-right w3-theme">Send</button>
       </form>
     </div>
   </div>
@@ -158,6 +228,5 @@ function openNav() {
   }
 }
 </script>
-
 </body>
 </html>

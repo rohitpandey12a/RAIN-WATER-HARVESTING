@@ -1,0 +1,162 @@
+/*--------------------*/
+/*-------------Grid */
+.zerogrid{ width: 100%; position: relative; margin: 0 auto; padding-top:10px;}
+.zerogrid .row{}
+
+.zerogrid .col-1-3{float: left; display: inline; margin:10px;}
+.zerogrid .col-1-3{width:31%;}
+
+.zerogrid .col-right,.zerogrid .col-left{float: left; display: inline; }
+.zerogrid .col-right{width:22%; background-color:#ece5e1; margin-right:10px;}
+.zerogrid .col-left{width:74%; margin-left:20px; margin-right:10px;}
+
+.zerogrid:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+.zerogrid .row:before,.row:after { content: '\0020'; display: block; overflow: hidden; visibility: hidden; width: 0; height: 0; }
+.zerogrid .row:after{clear: both; }
+
+/* TABLE												 */
+/* ===================================================== */
+table, th, td{border: 1px solid #ccc; border-collapse:collapse; vertical-align:top;}
+table, th{table-layout:auto;}
+table{width:100%; margin-bottom:15px;}
+th, td{border: 1px solid #ccc; padding:5px 8px; text-align:left;}
+td{border: 1px solid #ccc; }
+
+/*-------------table.responsive */
+
+  table.responsive.responsive {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+	border-collapse: collapse;
+	margin-bottom:10px;
+  }
+
+  table.responsive tr {
+    border: 1px solid #ddd;
+  }
+
+  table.responsive th, table.responsive td {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+	text-align: left;
+	vertical-align: text-top;
+	padding-left:5px;
+  }
+
+  table.responsive th {
+	font-weight: bold;
+  }
+
+  @media screen and (max-width: 800px) {
+
+    table.responsive {
+      width: 100%;
+	  height:auto;
+    }
+
+    table.responsive thead {
+      display: none;
+    }
+
+    table.responsive tr {
+      margin-bottom: 10px;
+      display: block;
+      border-bottom: 2px solid #ddd;
+    }
+
+    table.responsive td {
+      display: block;
+      text-align: right;
+      border-bottom: 1px dotted #ccc;
+    }
+
+    table.responsive td:last-child {
+      border-bottom: 0;
+    }
+
+    table.responsive td:before {
+      content: attr(data-label);
+      float: left;
+      font-weight: bold;
+    }
+  }
+
+  /*-------------table */
+
+
+  table.gridtable {
+	border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+	border-collapse: collapse;
+	margin-bottom:10px;
+}
+table.gridtable th {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+	text-align: left;
+	vertical-align: text-top;
+	font-weight: bold;
+	padding-left:5px;
+}
+table.gridtable td {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+	text-align: left;
+	vertical-align: text-top;
+	padding-left:5px;
+}
+
+/*-------------content */
+#content {width:90%; max-width:1280px; margin:0 auto; background-color:#FFF; padding-bottom:10px;}
+
+
+#main-content ul, ol{ padding-left:20px;}
+#main-content article{ clear: both;}
+#main-content article .heading{}
+#main-content article h2{font-size:1.2em; line-height:25px; text-transform:capitalise;}
+#main-content article h3{font-size:1em; line-height:30px; color:#000; font-weight:bold; }
+#main-content article h4{text-transform:capitalise;}
+#main-content article .info{}
+#main-content article p{padding-bottom:10px;}
+#main-content article .more{float:right;}
+
+#main-content .comment{
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+
+#main-content .comment h2{
+	font-size:1.2em; line-height:25px; text-transform:capitalise;}
+
+
+#sidebar{}
+#sidebar .heading{ padding:5px; background:#000000;}
+#sidebar .heading h2,.heading h3{font-size:1.2em; font-weight:normal; display:inline; padding:0 10px; color:#ffffff;}
+#sidebar .content{padding:2px}
+#sidebar .content ul{ list-style-type:disc; margin-left:20px;}
+#sidebar .content ul li{border-bottom: 1px solid #E1E1E1; padding:5px;}
+#sidebar .content a{ text-decoration:none;}
+
+@media print {
+   body {font-size: 10pt; line-height: 120%; background: white; color:#000;}
+
+   #sidebar, .pagetop, .wrap-header, .shareicons, nav, .block02, .copyright { display:none}
+
+   #main-content{
+	width:100%;
+}
+
+   a {
+	color: #000;
+	text-decoration: underline;
+}
+}

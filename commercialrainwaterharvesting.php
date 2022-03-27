@@ -21,33 +21,106 @@
 </nav>
 
 <!-- Navbar -->
+
 <div class="w3-top">
   <?php include('header.php');?>
 </div>
 
 <div class="w3-display-container w3-animate-opacity">
- <img src="images\banner1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
- <div class="w3-container w3-display-bottomleft w3-margin-bottom">
-   <p class="w3-button w3-xlarge w3-theme w3-hover-teal">RAIN WATER HARVESTING</p>
- </div>
+  <img src="images\Commercial-building1.jpg" alt="boat" style="width:100%;min-height:350px;max-height:600px;">
+  <div class="w3-container w3-display-bottomleft w3-margin-bottom">
+    <p class="w3-button w3-xlarge w3-theme w3-hover-teal">COMMERCIAL RAINWATER HARVESTING</p>
+  </div>
 </div>
-
 
 <!-- Modal -->
 
 <!-- Work Row -->
 <div class="w3-row-padding w3-padding-64 w3-theme-l1" id="work">
   <div class="w3-quarter">
-    <h2>Rain Water Harvesting</h2>
-    <p>Rainwater harvesting (RWH) is the collection and storage of rain, rather than allowing it to run off. Rainwater is collected from a roof-like surface and redirected to a tank, cistern, deep pit (well, shaft, or borehole), aquifer, or a reservoir with percolation, so that it seeps down and restores the ground water.</p>
+    <h2>Commercial Water Harvesting</h2>
+    <p>Achieving water independence has become a focus of many businesses throughout the INDIA. Harvesting rainwater for use within non potable applications helps towards fixing the variable costs of water supply and providing financial payback. It also helps towards a company’s sustainability credentials. A commercial rainwater harvesting system can often have short payback periods making it a very cost effecting solution for many buildings
+
+Below is a general guide for the different types of commercial rainwater harvesting systems; each type of system can be tailored to suit the needs of the client and building. All systems are designed with long term reliability, automation and safety back up in mind to ensure that the water supply to the building is secure. Remote monitoring by BMS or web browser is available where required.
+    </p>
   </div>
-  <div class="w3-quarter">
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <div><img src="images\blue rain barral.jpg" alt="Snow" style="width:100%;height:200px;max-height:250px">
+    </div>
+    <div class="w3-container">
+    <h3>Rain Barrels</h3>
+    <p>Rain barrels are the most basic form of rainwater harvesting. They are large plastic containers that are usually located in gardens, to collect rainwater directly from rainfall or alongside gutters. Rain barrels are mainly kept for watering garden plants and flowers.</p>
+    <br>
+    <p><b>For Complete Guidence -</b> </p>
+    <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+    <button onClick="window.location.href='https://cfpub.epa.gov/npstbx/files/ksmo_buildarainbarrel.pdf';">
+      Click Here
+    </button>
+    <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+    <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+      </iframe> -->
+    <iframe width="260" height="345" src="https://www.youtube.com/embed/K8D6leyW47U" title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    </div>
+    </div>
+  </div>
+
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\pumping.jpg" alt="Lights" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3>Pump Feed Systems</h3>
+    <p>These rainwater collection systems depend on a pump, as their name implies. They can be classified into direct and indirect systems.</p>
+    <p>
+      Since, worldwide, centrifugal pumps account for the majority of electricity used by pumps,
+      the focus of this chapter is on centrifugal pump
+    </p>
+    <p><b>For Complete Guidence -</b> </p>
+    <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+    <button onClick="window.location.href='https://www.beeindia.gov.in/sites/default/files/3Ch6.pdf';">
+      Click Here
+    </button>
+    <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+    <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+      </iframe> -->
+    <iframe width="260" height="345" src="https://www.youtube.com/embed/U8iWNaDuUek" title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    </div>
+    </div>
+  </div>
+
+  <div class="w3-quarter" >
+  <div class="w3-card w3-white">
+    <img src="images\Commersial_rainwater_system.jpg" alt="Mountains" style="width:100%;height:200px;max-height:250px">
+    <div class="w3-container" >
+    <h3>Gravity Feed Systems</h3>
+    <p>These systems are normally installed at the top of the building, using gravity to distribute collected rainwater to the different appliances. Some gravity feed have a hybrid design that includes a backup pump.
+    </p>
+    <br>
+    <br>
+    <p><b>For Complete Guidence -</b> </p>
+    <p style="color:rgb(0, 17, 255);">- Informative Article -</p>
+    <button
+      onClick="window.location.href='http://www.agrisud.org/wp-content/uploads/2014/02/adduction-eau-laos.pdf';">
+      Click Here
+    </button>
+    <p style="color:rgb(0, 17, 255);">- Technical Video -</p>
+    <!-- <iframe width="260" height="345" src="https://youtu.be/ES8-xHQ10ww">
+</iframe> -->
+    <iframe width="260" height="345" src="https://www.youtube.com/embed/Eh0pmgNnlOg" title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
+    </div>
+  </div>
+  </div>
 
   </div>
-  <div class="w3-quarter">
-
-  </div>
-</div>
 
 <!-- Team Container -->
 <div class="w3-container w3-padding-64 w3-center" id="team">
@@ -96,7 +169,7 @@
       <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  test@test.com</p>
     </div>
     <div class="w3-col m7">
-      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="action.php" method="post">
+      <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="/action_page.php" target="_blank">
       <div class="w3-section">
         <label>Name</label>
         <input class="w3-input" type="text" name="Name" required>
@@ -111,7 +184,7 @@
       </div>
       <input class="w3-check" type="checkbox" checked name="Like">
       <label>I Like it!</label>
-      <button type="submit" name="send" class="w3-button w3-right w3-theme">Send</button>
+      <button type="submit" class="w3-button w3-right w3-theme">Send</button>
       </form>
     </div>
   </div>
