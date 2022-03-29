@@ -1,4 +1,4 @@
-<?php
+<!DOCTYPE html>
   <html>
   <title>RAIN WATER HARVESTING</title>
   <meta charset="UTF-8">
@@ -167,5 +167,3 @@
 
   </body>
   </html>
-
-?>
